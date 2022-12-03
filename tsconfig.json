@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "outDir": "dist",
+        "target": "ESNext",
+    },
+    "files": [
+        "src/index.ts"
+    ]
+}
